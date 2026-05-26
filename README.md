@@ -5,11 +5,18 @@
 ---
 
 ## 📸 Demo
+<img width="1024" height="1536" alt="WhatsApp Image 2026-05-26 at 12 27 18 PM" src="https://github.com/user-attachments/assets/3b1f175a-ffe2-4dbf-8d13-d984138caedb" />
 
-> *(Add a photo or short video/GIF of your car in action here)*
 
----
+https://github.com/user-attachments/assets/82ea225b-09c7-44f8-ae6e-780522389a6e
 
+
+
+## 🔌 Circuit Diagram
+
+![Circuit Diagram](circuit_diagram.png)
+
+> Full interactive circuit: [View on Cirkit Designer](https://app.cirkitdesigner.com/project/5d358feb-4b06-4ddb-8f59-7b4ea54a220e)
 ## 🧠 How It Works
 
 1. A **Python script** on your PC captures your hand via webcam
